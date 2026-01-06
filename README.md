@@ -1,5 +1,7 @@
 # 🎥Movie-Recommendation-System
 
+http://localhost:8501/
+
 A content-based recommender using TF-IDF and cosine similarity, enhanced with OMDB API for rich movie details.
 
 
@@ -25,8 +27,9 @@ A content-based recommender using TF-IDF and cosine similarity, enhanced with OM
 
 ## 📁 Project Structure
 ---
+
+```text
 movie-recommendation-system-main/
-│
 ├── app/
 │   ├── app.py                 # Streamlit application logic
 │   └── assets/                # App screenshots & static assets
@@ -41,6 +44,9 @@ movie-recommendation-system-main/
 ├── .gitignore                 # Git ignored files
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
+└── LICENSE                    # MIT License
+```
+
 
 
 
