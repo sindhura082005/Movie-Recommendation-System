@@ -2,6 +2,8 @@
 
 A content-based recommender using TF-IDF and cosine similarity, enhanced with OMDB API for rich movie details.
 
+---
+
 ✨ Features
 
   Personalized Recommendations: Finds similar movies based on genres, plot, cast
