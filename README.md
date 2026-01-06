@@ -49,9 +49,9 @@ movie-recommendation-system-main/
 
 ##📦 Installation & Setup
 ---
-Install Requirements --> pip install -r requirements.txt
+    Install Requirements --> pip install -r requirements.txt
 
-Run the App Locally --> streamlit run app.py
+    Run the App Locally --> streamlit run app.py
 
 ## Application Preview
 ---
