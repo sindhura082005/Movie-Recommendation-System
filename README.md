@@ -3,7 +3,7 @@
 A content-based recommender using TF-IDF and cosine similarity, enhanced with OMDB API for rich movie details.
 
 
-✨ Features
+# ✨ Features
 ---
   Personalized Recommendations: Finds similar movies based on genres, plot, cast
 
@@ -13,7 +13,7 @@ A content-based recommender using TF-IDF and cosine similarity, enhanced with OM
 
   Real-time movie posters & plots using OMDB API
 
-  🧪 Tech Stack
+  # 🧪 Tech Stack
   ---
   
   |Frontend|Backend|ML/Tools|
@@ -23,23 +23,24 @@ A content-based recommender using TF-IDF and cosine similarity, enhanced with OM
 |Vercel|API Key Injection|Pandas, NumPy|
 
 
-📁 Project Structure
+## 📁 Project Structure
 ---
-
-movie-recommendation-system/
+movie-recommendation-system-main/
 │
 ├── app/
-
-│ └── app.py # Streamlit application
+│   ├── app.py                 # Streamlit application logic
+│   └── assets/                # App screenshots & static assets
+│       ├── app-screenshot-1.png
+│       ├── app-screenshot-2.png
+│       └── app-screenshot-3.png
 │
 ├── data/
-
-│ └── movies.csv # Movie metadata dataset
+│   └── movies.csv             # Movie metadata dataset
 │
-├── .env.example # Example environment variables
+├── .env                       # Environment variables (API keys)
+├── .gitignore                 # Git ignored files
+├── requirements.txt           # Python dependencies
+├── README.md                  # Project documentation
 
-├── .gitignore
 
-├── requirements.txt
 
-└── README.md
