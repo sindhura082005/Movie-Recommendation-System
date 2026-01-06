@@ -47,14 +47,21 @@ movie-recommendation-system-main/
 └── LICENSE                    # MIT License
 ```
 
-#📦 Installation & Setup
+# 📦 Installation & Setup
 ---
     Install Requirements --> pip install -r requirements.txt
 
     Run the App Locally --> streamlit run app.py
 
-## Application Preview
----
+# 🔮 Future Improvements
+
+   Add fuzzy matching for movie names
+
+   Support hybrid (content + collaborative) filtering
+
+   Deploy on Streamlit Cloud
+
+   Add user ratings & feedback loop
 
 
 
