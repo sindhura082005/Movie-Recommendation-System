@@ -14,7 +14,8 @@ A content-based recommender using TF-IDF and cosine similarity, enhanced with OM
   Real-time movie posters & plots using OMDB API
 
   🧪 Tech Stack
-
+  ---
+  
   |Frontend|Backend|ML/Tools|
 |--------|-------|--------|
 |Streamlit|OMDB API (REST)|Cosine Similarity|
@@ -23,6 +24,7 @@ A content-based recommender using TF-IDF and cosine similarity, enhanced with OM
 
 
 📁 Project Structure
+---
 
 movie-recommendation-system/
 │
