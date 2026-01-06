@@ -47,6 +47,15 @@ movie-recommendation-system-main/
 └── LICENSE                    # MIT License
 ```
 
+##📦 Installation & Setup
+---
+Install Requirements --> pip install -r requirements.txt
+Run the App Locally --> streamlit run app.py
+
+## Application Preview
+---
+
+
 
 
 
