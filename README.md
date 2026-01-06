@@ -25,7 +25,7 @@ A content-based recommender using TF-IDF and cosine similarity, enhanced with OM
 |Vercel|API Key Injection|Pandas, NumPy|
 
 
-## 📁 Project Structure
+# 📁 Project Structure
 ---
 
 ```text
@@ -47,7 +47,7 @@ movie-recommendation-system-main/
 └── LICENSE                    # MIT License
 ```
 
-##📦 Installation & Setup
+#📦 Installation & Setup
 ---
     Install Requirements --> pip install -r requirements.txt
 
