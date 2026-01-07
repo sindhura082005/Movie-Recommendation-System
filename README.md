@@ -1,39 +1,64 @@
-# 🎬 Movie Recommendation System
+# 🎥Movie-Recommendation-System
 
-[![Streamlit Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.com)
+http://localhost:8501/
 
 A content-based recommender using TF-IDF and cosine similarity, enhanced with OMDB API for rich movie details.
 
-## Features
-- **Personalized Recommendations**: Finds similar movies based on genres, plot, cast
-- **Rich UI**: Displays posters and plot summaries
-- **Scalable Design**: Cached similarity matrix for fast responses
 
-## Tech Stack
-- Python (Pandas, NLTK, Scikit-learn)
-- Streamlit (Deployment)
-- OMDB API (Movie metadata)
+# ✨ Features
+---
+  Personalized Recommendations: Finds similar movies based on genres, plot, cast
 
-## How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app/app.py
+  Rich UI: Displays posters and plot summaries
+
+  Scalable Design: Cached similarity matrix for fast responses
+
+  Real-time movie posters & plots using OMDB API
+
+  # 🧪 Tech Stack
+  ---
+  
+  |Frontend|Backend|ML/Tools|
+|--------|-------|--------|
+|Streamlit|OMDB API (REST)|Cosine Similarity|
+|HTML/CSS (auto)|Python + Requests|Scikit-learn|
+|Vercel|API Key Injection|Pandas, NumPy|
+
+
+# 📁 Project Structure
+---
+
+```text
+movie-recommendation-system-main/
+├── app/
+│   ├── app.py                 # Streamlit application logic
+│   └── assets/                # App screenshots & static assets
+│       ├── app-screenshot-1.png
+│       ├── app-screenshot-2.png
+│       └── app-screenshot-3.png
+│
+├── data/
+│   └── movies.csv             # Movie metadata dataset
+│
+├── .env                       # Environment variables (API keys)
+├── .gitignore                 # Git ignored files
+├── requirements.txt           # Python dependencies
+├── README.md                  # Project documentation
+└── LICENSE                    # MIT License
 ```
-## 📸 Application Preview
 
-<div align="center">
-  <img src="app/assets/app-screenshot-1.png" width="45%">
-  <img src="app/assets/app-screenshot-2.png" width="45%">
-  <img src="app/assets/app-screenshot-3.png" width="45%">
-  <br>
-  <em>Left: Main interface | Right: Recommendation results</em>
-</div>
+# 📦 Installation & Setup
+---
+    Install Requirements --> pip install -r requirements.txt
 
-## Sample Output
-![Demo](assets/demo.gif) 
+    Run the App Locally --> streamlit run app.py
 
- <!-- Add screenshot -->
+# 🔮 Future Improvements
 
-## Future Work
-- [ ] Add user ratings (Hybrid Filtering)
-- [ ] Deploy on AWS
+   Add fuzzy matching for movie names
+
+   Support hybrid (content + collaborative) filtering
+
+   Deploy on Streamlit Cloud
+
+   Add user ratings & feedback loop
