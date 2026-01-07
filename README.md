@@ -58,6 +58,11 @@ movie-recommendation-system-main/
 ---
 <img width="1462" height="929" alt="image" src="https://github.com/user-attachments/assets/62247729-2037-4ebf-8107-5660030225ef" />
 
+<img width="1559" height="923" alt="image" src="https://github.com/user-attachments/assets/9dd3d3fd-a0eb-491f-b77f-1a4c0a190744" />
+
+
+
+
 
 
 
