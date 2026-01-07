@@ -60,15 +60,12 @@ movie-recommendation-system-main/
 
 <img width="1559" height="923" alt="image" src="https://github.com/user-attachments/assets/9dd3d3fd-a0eb-491f-b77f-1a4c0a190744" />
 
-
-
-
-
+<img width="1443" height="944" alt="image" src="https://github.com/user-attachments/assets/9b3870d2-7c09-4a83-afb0-060aefdf2f6f" />
 
 
 
 # 🔮 Future Improvements
-
+---
    Add fuzzy matching for movie names
 
    Support hybrid (content + collaborative) filtering
