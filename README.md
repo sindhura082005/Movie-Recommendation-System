@@ -7,13 +7,13 @@ A content-based recommender using TF-IDF and cosine similarity, enhanced with OM
 
 # ✨ Features
 ---
-  Personalized Recommendations: Finds similar movies based on genres, plot, cast
+ 🔍 Personalized Recommendations: Finds similar movies based on genres, plot, cast
 
-  Rich UI: Displays posters and plot summaries
+  🖼️Rich UI: Displays posters and plot summaries
 
-  Scalable Design: Cached similarity matrix for fast responses
+  ⚡Scalable Design: Cached similarity matrix for fast responses
 
-  Real-time movie posters & plots using OMDB API
+  🎯Real-time movie posters & plots using OMDB API
 
   # 🧪 Tech Stack
   ---
@@ -66,10 +66,10 @@ movie-recommendation-system-main/
 
 # 🔮 Future Improvements
 ---
-   Add fuzzy matching for movie names
+  ○ Add fuzzy matching for movie names
 
-   Support hybrid (content + collaborative) filtering
+  ○ Support hybrid (content + collaborative) filtering
 
-   Deploy on Streamlit Cloud
+  ○ Deploy on Streamlit Cloud
 
-   Add user ratings & feedback loop
+  ○ Add user ratings & feedback loop
