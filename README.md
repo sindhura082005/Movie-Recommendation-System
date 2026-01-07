@@ -66,10 +66,10 @@ movie-recommendation-system-main/
 
 # 🔮 Future Improvements
 ---
-  ○ Add fuzzy matching for movie names
+  • Add fuzzy matching for movie names
 
-  ○ Support hybrid (content + collaborative) filtering
+  • Support hybrid (content + collaborative) filtering
 
-  ○ Deploy on Streamlit Cloud
+  • Deploy on Streamlit Cloud
 
-  ○ Add user ratings & feedback loop
+  • Add user ratings & feedback loop
