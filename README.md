@@ -56,6 +56,9 @@ movie-recommendation-system-main/
 
 # 📸 Application Preview
 ---
+<img width="1462" height="929" alt="image" src="https://github.com/user-attachments/assets/62247729-2037-4ebf-8107-5660030225ef" />
+
+
 
 
 
